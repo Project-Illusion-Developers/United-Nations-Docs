@@ -1,0 +1,33 @@
+DOCUMENTOS DE LAS NACIONES UNIDAS
+Militar
+
+1. Salarios
+2. Cuartel
+3. Equipar
+4. Capacitación
+
+Clave:
+Los números son () son el costo en moneda de los suministros de construcción
+
+SALARIOS:
+Los salarios dependen de su política militar en 'gov
+Conscripción = 25 por día, 1.042 por hora
+Fuerzas voluntarias = 75 por día, 3,12 por hora
+Fuerzas de élite = 225 por día, 9.375 por hora
+
+CUARTEL:
+Los cuarteles son su capacidad máxima tanto de su reclutamiento como de su ejército total.
+
+Precios:
+10,000 (30,000) Suministros de construcción
+25.000 moneda
+Costo total de 55.000 monedas
+Capacidad de 25 soldados por cuartel
+
+EQUIPAR:
+Busque ID de artículo durante 'artículos y navegue al hacer clic en la reacción de flecha
+Equipa las armas que posees haciendo 'item {ID}
+
+CAPACITACIÓN:
+el tiempo de entrenamiento depende de su política militar
+

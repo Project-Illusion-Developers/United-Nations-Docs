@@ -1,0 +1,27 @@
+UNITED NATIONS DOCS
+Resources
+
+1. Prices
+2. Extraction Speeds 
+
+Key:
+Numbers in () = Currency Value
+
+Extractor Prices:
+20,000 Currency
+5,000(15,000) Building Supplies
+150 Extractors = 3,000,000 Currency, 750,000(2,250,000) Building Supplies Total = 5,250,000 Currency
+
+Extraction Speeds:
+1 Resource per hour per extractor, 24 per hour per extractor
+
+Values: 
+Coal = 440 Per Coal
+Oil = 597 Per Oil
+Uranium = 1265 Per Uranium
+Diamond = 1621 Per Diamond
+
+150 Oil = 89,550 Per hour, 2,149,200 Per day
+150 Coal = 66,000 Per hour, 1,584,000 Per day
+150 Uranium = 189,750 Per hour, 4,554,000 Per day
+150 Diamond = 243,150 Per hour, 5,835,600 Per day

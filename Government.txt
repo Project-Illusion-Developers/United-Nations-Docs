@@ -1,0 +1,15 @@
+UNITED NATIONS DOCS
+Government
+
+1. Effects
+2. Charges
+3. Incomes
+
+1 Effects
+The effect are listed in the government policies option menu
+
+2. Charges
+Each expenses related to government are applied in the city expense tab
+
+3. Incomes
+Each income related to government are applied in the city income tab

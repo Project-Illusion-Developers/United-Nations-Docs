@@ -1,0 +1,32 @@
+DOCUMENTS DES NATIONS UNIES
+Systèmes monétaires
+
+COINZ
+Valeur = 100 Devise
+Revenu 24 par jour, 1 par heure ou `` récompense de vote ''
+Utilisation 'uber (10% de chance pour une augmentation de 10x),
+'tirage (25% de chance pour une augmentation 4x),
+'coinflip (50% de chance pour une augmentation de 2x),
+'cashout (convertir coinz en devise)
+
+ÉTHÉRIUM
+Valeur = 5 (lors de l'achat) 3 (lors de la vente)
+Revenu = Aucun
+Utilisation: Marché boursier (acheter et vendre des actions),
+'retirer {AMOUNT} (convertir une certaine quantité d'étherium en devise),
+'étherium {AMOUNT} (acheter une certaine quantité d'étherium)
+
+DEVISE
+Valeur = N / A
+Revenu = N / A
+Utilisation: tout.
+
+MATÉRIAUX DE CONSTRUCTION:
+Valeur = 3+ devises (dépend du montant acheté, prix réinitialisé à chaque mise à jour)
+Revenu = Aucun
+Usage = Structures d'achat
+
+TERRE
+VALEUR = 5 à 3 devises (dépend de votre politique étrangère)
+Revenu = Aucun
+Utilisation = Achat de structures nationales

@@ -1,0 +1,33 @@
+DOCUMENTS DES NATIONS UNIES
+Militaire
+
+1. Salaires
+2. Caserne
+3. Équiper
+4. Formation
+
+Clé:
+Les nombres sont () sont le coût en devise des matériaux de construction
+
+LES SALAIRES:
+Les salaires dépendent de votre politique militaire en 'gov
+Conscription = 25 par jour, 1,042 par heure
+Forces volontaires = 75 par jour, 3,12 par heure
+Forces d'élite = 225 par jour, 9,375 par heure
+
+BARRACKS:
+Les casernes sont votre capacité maximale à la fois de votre recrutement et de votre armée totale
+
+Des prix:
+10 000 (30 000) Matériaux de construction
+25000 devises
+Coût total de 55000 devises
+Capacité de 25 soldats par caserne
+
+ÉQUIPER:
+Trouvez l'ID d'article pendant les articles et naviguez en cliquant sur la flèche de réaction
+Équipez les armes que vous possédez en faisant 'item {ID}
+
+FORMATION:
+le temps de formation dépend de votre politique militaire
+

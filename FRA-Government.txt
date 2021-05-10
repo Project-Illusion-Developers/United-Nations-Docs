@@ -1,0 +1,15 @@
+DOCUMENTS DES NATIONS UNIES
+Gouvernement
+
+1. Effets
+2. Frais
+3. Revenus
+
+1 Effets
+Les effets sont répertoriés dans le menu d'options des politiques gouvernementales
+
+2. Frais
+Chaque dépense liée au gouvernement est appliquée dans l'onglet Dépenses de la ville
+
+3. Revenus
+Chaque revenu lié au gouvernement est appliqué dans l'onglet revenu de la ville

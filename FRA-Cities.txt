@@ -1,0 +1,32 @@
+DOCUMENTS DES NATIONS UNIES
+Villes
+
+AMÉLIORATIONS:
+Les améliorations n'ont aucun effet à ce moment et peuvent être ignorées.
+
+DES PRIX:
+Les prix sont affichés sur 'cstats en cliquant sur la réaction du package.
+Le prix des bâtiments de production d'électricité augmente de 1% par bâtiment acheté
+
+PUISSANCE:
+Vous pouvez cocher les différentes options pour générer de l'énergie dans 'cpower
+Vous pouvez vérifier leur production et leur prix dans 'cstats: package: page.
+
+Famine et croissance:
+La famine se produit lorsque la nation du joueur finit par croiser la demande alimentaire au détriment de l'offre alimentaire
+Nourriture = Nombre de fermes * 13,968
+Faim = Population * 1,452
+
+Plus la différence entre l'offre et la consommation est grande, plus la croissance est importante.
+
+DEMANDES:
+Les demandes d'articles dans votre ville sont calculées comme suit:
+
+5.679 Pop par maison
+3.334 Égouts par maison
+3.289 câble Internet par maison
+4.856 Ligne électrique par maison
+4.1215 Ligne téléphonique par maison
+0,65 Puissance par Powerline
+
+La demande est toujours arrondie vers le bas et une mise à jour derrière

@@ -1,0 +1,36 @@
+DOCUMENTS DES NATIONS UNIES
+Paiement et virement
+
+1. Formatage
+2. Différences
+4. Paiements / virements minimum et maximum
+
+Clé
+{} = Mentions d'autres utilisateurs.
+() = Montant envoyé.
+[] = Autres notes
+
+MISE EN PAGE:
+'Payer () {}
+'transfert () {}
+Les utilisateurs peuvent utiliser, pour séparer les nombres
+Le paiement est traité immédiatement
+
+DIFFÉRENCES:
+'Payer la devise de transfert d'un solde de joueur à un autre
+'Transférer la monnaie de transfert du coffre-fort de l'Empire vers le solde d'un joueur (ledit joueur doit être membre de l'empire)
+
+PAIEMENTS / TRANSFERT MINIMUM ET MAXIMUM:
+Minimum: 100
+Maximum: (basé sur le score indiqué ci-dessous)
+- Score inférieur à 30 000, limite fixée à 100 000 000
+- Score inférieur à 300 000, limite fixée à 1 000 000 000
+- Score inférieur à 3 000 000, limite fixée à 10 000 000 000
+- Score inférieur à 30 000 000, limite fixée à 100 000 000 000
+- Score inférieur à 300 000 000, limite fixée à 1 000 000 000 000
+- Score inférieur à 3 000 000 000, limite fixée à 10 000 000 000 000
+- Score inférieur à 30 000 000 000, limite fixée à 100 000 000 000 000
+- Score inférieur à 300 000 000 000, limite fixée à 1 000 000 000 000 000
+- Score supérieur à 300 000 000 000, limite fixée à 10 000 000 000 000 000
+
+Temps de recharge: 48 heures pour le salaire, 12 heures pour le transfert

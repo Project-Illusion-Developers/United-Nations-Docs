@@ -1,0 +1,27 @@
+DOCUMENTS DES NATIONS UNIES
+Ressources
+
+1. Prix
+2. Vitesses d'extraction
+
+Clé:
+Nombres entre () = valeur de la devise
+
+Prix de l'extracteur:
+20 000 devises
+5000 (15000) Matériaux de construction
+150 extracteurs = 3 000 000 devises, 750 000 (2 250 000) Matériaux de construction Total = 5 250 000 devises
+
+Vitesses d'extraction:
+1 ressource par heure par extracteur, 24 par heure par extracteur
+
+Valeurs:
+Charbon = 440 par charbon
+Huile = 597 par huile
+Uranium = 1265 par uranium
+Diamant = 1621 par diamant
+
+150 Pétrole = 89550 par heure, 2.149.200 par jour
+150 Charbon = 66 000 par heure, 1 584 000 par jour
+150 Uranium = 189750 par heure, 4554000 par jour
+150 diamants = 243,150 par heure, 5,835,600 par jour

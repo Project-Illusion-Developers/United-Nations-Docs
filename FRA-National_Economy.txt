@@ -1,0 +1,30 @@
+DOCUMENTS DES NATIONS UNIES
+Économie nationale
+
+1. Modifier les prix
+2. Diminue
+3. Sorties
+
+
+Les prix des fermes et des usines augmentent et diminuent en fonction de la commande 'update'.
+Les prix pour tous augmentent dans une gamme prédéfinie dédiée ou maximum.
+Les extrants sont définis par votre politique fiscale et votre prime de production.
+
+Clé
+Nombres entre () = version monétaire des matériaux de construction à une valeur de 3
+
+CHANGER LES PLAGES:
+MAX Farms = 1000 (3000) Matériaux de construction Maximum par achat.
+MIN Farms = 1 (3) Matériaux de construction Minimum par achat.
+Usines MAX = 1000 (3000) approvisionnements de bâtiment maximum par achat.
+Usines MIN = 1 (3) Matériaux de construction Minimum par achat.
+Matériaux de construction = 2 (6) par achat
+
+DIMINUTION:
+Fermes = 2 (6) par heure, 48 (144) par jour, 336 (1008) par semaine.
+Usines = 2 (6) par heure, 48 (144) par jour, 336 (1008) par semaine.
+Matériaux de construction = réglé sur 3 (9) lors de la mise à jour
+
+LES SORTIES:
+Ferme = 25 devises par jour, 1,25 par heure. (à 100% de taxe, par défaut)
+Usine = 650 devises par jour, 27,08 par heure. (à 100% de taxe, par défaut)
